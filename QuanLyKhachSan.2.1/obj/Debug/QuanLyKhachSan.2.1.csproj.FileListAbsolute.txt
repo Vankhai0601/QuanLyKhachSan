@@ -1,0 +1,977 @@
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe.config
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.pdb
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csprojResolveAssemblyReference.cache
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Form1.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Properties.Resources.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.GenerateResource.Cache
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe.licenses
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.pdb
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.KhachHang.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangKi.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.NhanPhong.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.TraPhong.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DichVu.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Phong.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.LoaiPhong.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThietBi.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.HoaDon1.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\RdlCompile.cache
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\RdlCompile.compiled
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangNhap.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThongKe.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.BaoCaoKH.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DanhsachHD.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DoiMK.resources
+D:\New folder\la[ trinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.PhanQuyen.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe.config
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.pdb
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.BonusSkins.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Charts.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.CodeParser.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v17.1.Export.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.UI.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.UI.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.Extensions.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v17.1.Core.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v17.1.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v17.1.UI.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v17.1.Extensions.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v17.1.UI.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v17.1.Wizard.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v17.1.Core.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v17.1.xml
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Data.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Data.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Data.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Data.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Office.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Pdf.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.PivotGrid.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Printing.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.RichEdit.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Xpo.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraBars.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Sparkline.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraEditors.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGauges.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraLayout.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPrinting.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v17.1.Extensions.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraTreeList.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraRichEdit.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v17.1.UI.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v17.1.Wizard.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraNavBar.v17.1.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Diagram.v17.1.Core.resources.dll
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csprojAssemblyReference.cache
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.BaoCaoKH.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangKi.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangNhap.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DanhsachHD.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DichVu.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DoiMK.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Form1.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.HoaDon1.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.KhachHang.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.LoaiPhong.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.NhanPhong.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.PhanQuyen.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Phong.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Properties.Resources.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThietBi.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThongKe.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.TraPhong.resources
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.GenerateResource.cache
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe.licenses
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.CoreCompileInputs.cache
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.CopyComplete
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe
+D:\New folder\laptrinh\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.pdb
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe.config
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.pdb
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Images.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csprojAssemblyReference.cache
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.BaoCaoKH.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangKi.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangNhap.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DanhsachHD.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DichVu.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DoiMK.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Form1.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.HoaDon1.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.KhachHang.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.LoaiPhong.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.NhanPhong.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.PhanQuyen.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Phong.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Properties.Resources.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThietBi.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThongKe.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.TraPhong.resources
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.GenerateResource.cache
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe.licenses
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\RdlCompile.cache
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\RdlCompile.compiled
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.CoreCompileInputs.cache
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.CopyComplete
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.pdb
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.Design.DLL
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\EnvDTE.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\EnvDTE80.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\stdole.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\Microsoft.MSXML.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan.2.1\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe.config
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.exe
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\QuanLyKhachSan.2.1.pdb
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.BonusSkins.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Charts.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.CodeParser.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v19.2.Export.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.UI.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.Common.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.DataVisualization.DLL
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.Design.DLL
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.DLL
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WebDesign.DLL
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WebForms.DLL
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.ReportViewer.WinForms.DLL
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.SqlServer.Types.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Images.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.UI.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.Extensions.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\EnvDTE.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\EnvDTE80.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v19.2.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v19.2.Core.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\stdole.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\Microsoft.MSXML.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Data.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Office.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Pdf.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.PivotGrid.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Printing.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.RichEdit.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Utils.v19.2.UI.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Xpo.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraBars.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Sparkline.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraEditors.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGauges.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraGrid.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraLayout.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPrinting.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraReports.v19.2.Extensions.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraVerticalGrid.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraTreeList.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraRichEdit.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.DataAccess.v19.2.UI.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraNavBar.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraCharts.v19.2.Wizard.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraPivotGrid.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.XtraDiagram.v19.2.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\DevExpress.Diagram.v19.2.Core.xml
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Data.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Office.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Pdf.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.PivotGrid.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Printing.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.RichEdit.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Utils.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Xpo.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraBars.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Sparkline.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraEditors.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGauges.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraLayout.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPrinting.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraReports.v19.2.Extensions.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebDesign.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WebForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraTreeList.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraRichEdit.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.DataAccess.v19.2.UI.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraNavBar.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraCharts.v19.2.Wizard.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.2.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\de\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\es\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ja\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\bin\Debug\ru\DevExpress.Diagram.v19.2.Core.resources.dll
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csprojAssemblyReference.cache
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.BaoCaoKH.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangKi.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DangNhap.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DanhsachHD.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DichVu.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.DoiMK.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Form1.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.HoaDon1.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.KhachHang.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.LoaiPhong.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.NhanPhong.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.PhanQuyen.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Phong.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.Properties.Resources.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThietBi.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.ThongKe.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan._2._1.TraPhong.resources
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.GenerateResource.cache
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe.licenses
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\RdlCompile.cache
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\RdlCompile.compiled
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.CoreCompileInputs.cache
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.csproj.CopyComplete
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.exe
+E:\DAQLKS\QuanLyKhachSan\QuanLyKhachSan.2.1\obj\Debug\QuanLyKhachSan.2.1.pdb
